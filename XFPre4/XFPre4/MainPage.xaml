@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XFPre4"
+             x:Class="XFPre4.MainPage" >
+    <StackLayout BackgroundColor="GreenYellow" Padding="20">
+        <StackLayout BackgroundColor="Yellow" Padding="45">
+            <Label BackgroundColor="Blue" Text="Xamarin buddy" TextColor="White"
+                   FontSize="Large"
+                   FontAttributes="Bold"></Label>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
